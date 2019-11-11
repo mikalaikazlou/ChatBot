@@ -15,6 +15,19 @@ namespace Project_minibot.Logger
             ERROR
         }
 
+        public static void Verify()
+        {
+            FileInfo info=new FileInfo($@"D:\itacademy\DOTNET_PROJECT_miniBot\Project_minibot\Logger\logs\log {DateTime.Now:yyyyMMdd}_[{Count}].txt");
+            if (info.Exists)
+            {
+                Console.WriteLine("log exists");
+            }
+            else
+            {
+                Console.WriteLine("log dosn't exists");
+            }
+
+        }
         public static async void LoggerCreat(string nameSpace, string methodName,LogStatus status, string message)
         {
             string path = $@"D:\itacademy\DOTNET_PROJECT_miniBot\Project_minibot\Logger\logs\log {DateTime.Now:yyyyMMdd}_[{Count}].txt";

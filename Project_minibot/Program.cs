@@ -23,7 +23,7 @@ namespace Project_minibot
 
             while (true)
             {
-                Console.WriteLine($"\n{AddressCustomer.NameCustomer},Вот наше меню:{DisplayMenu.menuStart}");
+                Console.WriteLine($"\n{AddressCustomer.NameCustomer},Вот наше меню:{DisplayMenu.menuStart} {MyExtension.CutString(DisplayMenu.menuStart)}");
                 Console.WriteLine($"\n{AddressCustomer.NameCustomer}, укажите номер меню, которое Вы желаете посмотреть?");
 
                 int numberMenu = int.Parse(Console.ReadLine());
@@ -56,11 +56,14 @@ namespace Project_minibot
                 string answer = Console.ReadLine();
                 if (answer == "нет") break;
             }
+
             Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Начало процесса оформления заказа");
             menu.BillCount();
             address.AddressAndEmail();
             new Bill().WriteBill();
             Email.SendEmail();
+
+            Logger.Logger.Verify();
             Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Завершение процесса оформления заказа");
             Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Программа завершена успешно");
         }

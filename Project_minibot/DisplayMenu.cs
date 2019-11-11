@@ -8,6 +8,7 @@ namespace Project_minibot
     {
         public const string menuStart = "\n\n\tМеню:\n1.Суши\n2.Роллы\n3.Соусы/Гарниры\n4.Напитки";
        
+        
         public override double BillCount()
         {
             Console.WriteLine($"\nСумма Вашего заказа составила {Bill.sumBill} рублей!");
