@@ -21,12 +21,14 @@ namespace Project_minibot.Food
                 saucces.Price = 2;
                 sauccesGarnishes.Add(saucces);
             }
+
             return sauccesGarnishes;
         }
 
         public void QuestionsOrderSaucces()
         {
             Logger.Logger.LoggerCreat("Project_minibot.Food", "QuestionsOrderSaucces", Logger.Logger.LogStatus.DEBUG, "Выбор и заказ суши");
+            
             Console.WriteLine("\nХотите что-нибудь заказать?");
             SauccesGarnish sauccesOder = new SauccesGarnish();
             sauccesOder.MenuSauccesGarnishes();

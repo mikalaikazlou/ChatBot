@@ -47,7 +47,6 @@ namespace Project_minibot.Logger
                     int number = Convert.ToInt32(numb);
                     ++number;
                     Count = number;
-
                     string path1 = $@"D:\log {DateTime.Now:yyyyMMdd}_[{number}].txt";
 
                     using (StreamWriter streamWrite = new StreamWriter(path1, true))

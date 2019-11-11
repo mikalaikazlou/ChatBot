@@ -8,7 +8,6 @@ namespace Project_minibot
     {
         public const string menuStart = "\n\n\tМеню:\n1.Суши\n2.Роллы\n3.Соусы/Гарниры\n4.Напитки";
        
-        
         public override double BillCount()
         {
             Console.WriteLine($"\nСумма Вашего заказа составила {Bill.sumBill} рублей!");
@@ -35,6 +34,7 @@ namespace Project_minibot
             {
                 SauccesGarnish sg = new SauccesGarnish();
                 Console.WriteLine("\n\t Меню соусы/гарниры:\n\nНОМЕР\tНАЗВАНИЕ\tЦЕНА\n");
+                
                 foreach (SauccesGarnish s in sg.MenuSauccesGarnishes())
                 {
                     Console.WriteLine(s.Number + "\t" + s.Name + "\t " + s.Price);
@@ -45,6 +45,7 @@ namespace Project_minibot
             {
                 Drinks dr = new Drinks();
                 Console.WriteLine("\n\t Меню напитков:\n\nНОМЕР\tНАЗВАНИЕ\tЦЕНА\n");
+                
                 foreach (Drinks d in dr.MenuDrinks())
                 {
                     Console.WriteLine(d.Number + "\t" + d.Name + "\t\t" + d.Price);

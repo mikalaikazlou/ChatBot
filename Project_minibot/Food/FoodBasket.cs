@@ -5,6 +5,7 @@ namespace Project_minibot
     class FoodBasket
     {
         private List<JapaneseFood> _listFood;
+
         public FoodBasket(List<JapaneseFood> orderList)
         {
             _listFood = orderList;
@@ -19,9 +20,11 @@ namespace Project_minibot
                 {
                     result += food.Price;
                 }
+
                 return result;
             }
         }
+
         public int SumRolls
         {
             get
@@ -31,6 +34,7 @@ namespace Project_minibot
                 {
                     result += food.Price;
                 }
+                
                 return result;
             }
         }

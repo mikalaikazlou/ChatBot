@@ -56,9 +56,11 @@ namespace Project_minibot
                         Logger.Logger.LoggerCreat("Project_minibot.Database", "GetSushi", Logger.Logger.LogStatus.ERROR, "Пустая ссылка. Значение NULL");
                         throw new MyExceptionMessage(message: "Попытка использовать пустую ссылку");
                     }
+
                     sushiList.Add(sushiGet);
                 }
             }
+
             return sushiList;
         }
         public Sushi GetSushiNumber( int numberList)
@@ -76,6 +78,7 @@ namespace Project_minibot
                 {
                     sushiGet.Number = (int)reader["number"];
                     sushiGet.Name = (string)reader["name"];
+                    
                     if (!(reader[name: "price"] is DBNull))
                     {
                         sushiGet.Price = (int)reader[name: "price"];
@@ -87,6 +90,7 @@ namespace Project_minibot
                     }
                 }
             }
+
             return sushiGet;
         }
 

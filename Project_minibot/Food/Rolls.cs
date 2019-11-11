@@ -14,9 +14,11 @@ namespace Project_minibot.Food
         public int QuestionsOrderRolls()
         {
             Logger.Logger.LoggerCreat("Project_minibot.Food", "QuestionsOrderRolls", Logger.Logger.LogStatus.DEBUG, "Выбор и заказ роллов");
+            
             Console.WriteLine("\nХотите что-нибудь заказать?");
             string answerCustomer = Console.ReadLine();
             FoodBasket foodBasket = new FoodBasket(customerOrder);
+            
             if (answerCustomer.Equals("да", StringComparison.CurrentCultureIgnoreCase))
             {
                 while (true)
@@ -44,11 +46,11 @@ namespace Project_minibot.Food
         public static void PrintMenuRolls(List<Rolls> list)
         {
             Console.WriteLine("\n\t Меню роллов:\n\nНОМЕР \tНАЗВАНИЕ\tЦЕНА\n");
+            
             foreach (Rolls s in list)
             {
                 Console.WriteLine(s.Number + "\t" + s.Name + "\t" + s.Price);
             }
         }
-
     }
 }

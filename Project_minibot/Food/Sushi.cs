@@ -5,17 +5,19 @@ namespace Project_minibot.Food
 {
     public class Sushi : JapaneseFood
     {
-        SushiDatabase dbSushi = new SushiDatabase();
-        List<JapaneseFood> customerOrder = new List<JapaneseFood>();
-
         public static int Sum { get; set; }
 
+        SushiDatabase dbSushi = new SushiDatabase();
+        List<JapaneseFood> customerOrder = new List<JapaneseFood>();
+        
         public int QuestionsOrderSushi()
         {
             Logger.Logger.LoggerCreat("Project_minibot.Food", "QuestionsOrderSushi", Logger.Logger.LogStatus.DEBUG, "Выбор и заказ суши");
+            
             Console.WriteLine("\nХотите что-нибудь заказать?");
             string answerCustomer = Console.ReadLine();
             FoodBasket foodBasket = new FoodBasket(customerOrder);
+            
             if (answerCustomer.Equals("да", StringComparison.CurrentCultureIgnoreCase))
             {
                 while (true)
@@ -43,6 +45,7 @@ namespace Project_minibot.Food
         public static void PrintMenuSushi(List<Sushi> list)
         {
             Console.WriteLine("\n\t Меню суши:\n\nНОМЕР\t  НАЗВАНИЕ\t\tЦЕНА\n");
+            
             foreach (Sushi s in list)
             {
                 Console.WriteLine(s.Number + "\t" + s.Name + "  \t  " + s.Price);

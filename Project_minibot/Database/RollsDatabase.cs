@@ -56,9 +56,11 @@ namespace Project_minibot.Database
                         Logger.Logger.LoggerCreat("Project_minibot.Database", "GetRolls", Logger.Logger.LogStatus.ERROR, "Пустая ссылка. Значение NULL");
                         throw new MyExceptionMessage(message: "Попытка использовать пустую ссылку");
                     }
+
                     rollsList.Add(rollsGet);
                 }
             }
+
             return rollsList;
         }
 
@@ -77,6 +79,7 @@ namespace Project_minibot.Database
                 {
                     rollsGet.Number = (int) reader["number"];
                     rollsGet.Name = (string) reader["name"];
+                    
                     if (!(reader[name: "price"] is DBNull))
                     {
                         rollsGet.Price = (int) reader[name: "price"];

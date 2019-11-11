@@ -7,6 +7,7 @@ namespace Project_minibot
     class Bill
     {
         public static double sumBill = Sushi.Sum + Rolls.Sum + Drinks.getSumDrinks + SauccesGarnish.getSumSaucces;
+       
         public virtual double BillCount()
         {
             double percent = 0.0;
@@ -28,7 +29,7 @@ namespace Project_minibot
                     percent = (double)DayDiscount.Saterday;
                     break;
             }
-
+            
             double sumSale = (sumBill * percent) / 100;
             return sumSale;
         }
