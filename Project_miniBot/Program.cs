@@ -9,7 +9,9 @@ namespace Project_minibot
     {
         static void Main(string[] args)
         {
-            Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Программа запущена");
+            Type iType = typeof(Program);
+            string getNamespace = iType.Namespace;
+            Logger.Logger.LoggerCreat(getNamespace, "Main", 0, "Программа запущена");
             Thread thread = new Thread(new ThreadStart(Welcome.WelcomeCustomer));
             thread.Start();
 
@@ -18,19 +20,19 @@ namespace Project_minibot
             Sushi sushi = new Sushi();
             Rolls rolls = new Rolls();
             DisplayMenu menu = new DisplayMenu();
-            AddressCustomer address = new AddressCustomer();
-            AddressCustomer.NameCustomer = Console.ReadLine();
+            DataInput address = new DataInput();
+            DataInput.NameCustomer = Console.ReadLine();
 
             while (true)
             {
-                Console.WriteLine($"\n{AddressCustomer.NameCustomer},Вот наше меню:{DisplayMenu.menuStart} {MyExtension.CutString(DisplayMenu.menuStart)}");
-                Console.WriteLine($"\n{AddressCustomer.NameCustomer}, укажите номер меню, которое Вы желаете посмотреть?");
+                Console.WriteLine($"\n{DataInput.NameCustomer},Вот наше меню:{DisplayMenu.menuStart} {MyExtension.CutString(DisplayMenu.menuStart)}");
+                Console.WriteLine($"\n{DataInput.NameCustomer}, укажите номер меню, которое Вы желаете посмотреть?");
 
                 int numberMenu = int.Parse(Console.ReadLine());
 
                 if (numberMenu > 4 || numberMenu < 0)
                 {
-                    Logger.Logger.LoggerCreat("Project_minibot", "Main", Logger.Logger.LogStatus.ERROR, "Недопустимое значение!");
+                    Logger.Logger.LoggerCreat(getNamespace, "Main", Logger.Logger.LogStatus.ERROR, "Недопустимое значение!");
                     throw new MyExceptionMessage("\nТакой позиции в меню нет!");
                 }
 
@@ -57,7 +59,7 @@ namespace Project_minibot
                 if (answer == "нет") break;
             }
 
-            Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Начало процесса оформления заказа");
+            Logger.Logger.LoggerCreat(getNamespace, "Main", 0, "Начало процесса оформления заказа");
            
             menu.BillCount();
             address.AddressAndEmail();
@@ -65,8 +67,8 @@ namespace Project_minibot
             Email.SendEmail();
 
             Logger.Logger.Verify();
-            Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Завершение процесса оформления заказа");
-            Logger.Logger.LoggerCreat("Project_minibot", "Main", 0, "Программа завершена успешно");
+            Logger.Logger.LoggerCreat(getNamespace, "Main", 0, "Завершение процесса оформления заказа");
+            Logger.Logger.LoggerCreat(getNamespace, "Main", 0, "Программа завершена успешно");
         }
     }
 }

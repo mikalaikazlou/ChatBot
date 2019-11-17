@@ -1,0 +1,226 @@
+17.11.2019 11:56   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 11:57   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 11:57   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 11:57   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 11:57   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 11:57   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 11:57   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 11:57   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 11:57   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 11:57   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 11:57   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 11:58   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 11:58   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 11:58   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 11:58   INFO   Project_minibot   SendEmail   Сообщение отправлено успешно
+17.11.2019 11:58   INFO   Project_minibot   Main   Завершение процесса оформления заказа
+17.11.2019 11:58   INFO   Project_minibot   Main   Программа завершена успешно
+17.11.2019 11:59   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:00   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:00   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:00   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:00   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:00   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:00   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:03   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:03   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:03   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:03   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:03   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:04   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:04   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:04   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:04   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:04   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:04   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:04   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:05   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:05   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:05   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:05   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:05   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:06   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:06   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:06   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 12:06   INFO   Project_minibot   SendEmail   Сообщение отправлено успешно
+17.11.2019 12:07   INFO   Project_minibot   Main   Завершение процесса оформления заказа
+17.11.2019 12:07   INFO   Project_minibot   Main   Программа завершена успешно
+17.11.2019 12:25   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:25   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:25   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:25   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:25   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:27   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:27   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 12:27   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 12:27   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:27   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:28   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:28   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:28   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 12:30   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:30   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 12:30   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 12:30   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:30   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:30   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:30   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:30   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 12:31   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:31   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 12:31   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 12:31   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:31   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:32   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:32   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:32   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 12:34   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:34   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 12:34   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 12:34   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:34   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:36   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 12:36   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 12:36   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 12:36   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 12:36   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 12:37   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 12:37   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 12:37   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 12:37   INFO   Project_minibot   SendEmail   Сообщение отправлено успешно
+17.11.2019 12:37   INFO   Project_minibot   Main   Завершение процесса оформления заказа
+17.11.2019 12:37   INFO   Project_minibot   Main   Программа завершена успешно
+17.11.2019 13:01   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:01   DEBUG   Project_minibot.Food   QuestionsOrderSaucces   Выбор и заказ суши
+17.11.2019 13:02   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 13:02   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 13:02   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 13:02   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 13:02   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 13:02   INFO   Project_minibot   SendEmail   Сообщение отправлено успешно
+17.11.2019 13:02   INFO   Project_minibot   Main   Завершение процесса оформления заказа
+17.11.2019 13:02   INFO   Project_minibot   Main   Программа завершена успешно
+17.11.2019 13:03   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 13:03   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 13:03   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:03   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 13:04   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 13:04   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 13:05   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 13:05   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:05   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 13:05   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 13:05   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 13:06   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 13:06   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 13:06   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 13:16   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 13:16   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 13:16   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 13:17   INFO   Project_minibot   Main   Начало процесса оформления заказа
+17.11.2019 13:17   DEBUG   Project_minibot   AddressAndEmail   Ввод данных пользователя. Отправка сообщения о заказе суши
+17.11.2019 13:17   INFO   Project_minibot   AddressAndEmail   Отправка сообщения о заказе, выполнена успешно
+17.11.2019 13:17   INFO   Project_minibot   WriteBill   Чек заказа успешно оформлен
+17.11.2019 13:17   INFO   Project_minibot   SendEmail   Отправка сообщения
+17.11.2019 14:08   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 14:34   INFO   Project_minibot   Main   Программа запущена
+17.11.2019 14:48   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:48   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 14:48   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:48   DEBUG   Project_minibot.Food   QuestionsOrderSushi   Выбор и заказ суши
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot   GetSushi   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Food   QuestionsOrderRolls   Выбор и заказ роллов
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных
+17.11.2019 14:49   DEBUG   Project_minibot.Database   GetRolls   Считывание данных всех объектов из базы данных

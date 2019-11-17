@@ -42,7 +42,7 @@ namespace Project_minibot
             {
                 fileStream.Close();
                 StreamWriter newWriter = new StreamWriter(path);
-                newWriter.WriteLine($"{AddressCustomer.NameCustomer}, Ваш заказ успешно оформлен");
+                newWriter.WriteLine($"{DataInput.NameCustomer}, Ваш заказ успешно оформлен");
                 newWriter.WriteLine($"\nСумма Вашего заказа составила {Bill.sumBill} рублей!");
                 newWriter.WriteLine($"\nВключая: \nСуши - {Sushi.Sum} рублей\nРоллы - {Rolls.Sum} рублей\nСоусы/Гарниры - {SauccesGarnish.getSumSaucces} рублей\nНапитки - {Drinks.getSumDrinks} рублей.");
                 newWriter.WriteLine($"\nСумма к оплате, с учетом скидки {BillCount()} рубля(ей), составляет {Bill.sumBill - BillCount()} рублей!");
